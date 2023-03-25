@@ -1,5 +1,5 @@
-if game:GetService("CoreGui"):FindFirstChild("Catalyst.exe") then
-    game:GetService("CoreGui"):FindFirstChild("Catalyst.exe"):Destroy()
+if game:GetService("CoreGui"):FindFirstChild("CatalystUI") then
+    game:GetService("CoreGui"):FindFirstChild("CatalystUI"):Destroy()
 end
 
 local InputService = game:GetService('UserInputService');
@@ -19,7 +19,7 @@ ProtectGui(ScreenGui);
 
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Global;
 ScreenGui.Parent = CoreGui;
-ScreenGui.Name = "Catalyst.exe"
+ScreenGui.Name = "CatalystUI"
 
 local Toggles = {};
 local Options = {};
