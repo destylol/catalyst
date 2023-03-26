@@ -14,5 +14,9 @@
     "2474168535": {
          "Name": "Westbound",
          "Url": "https://raw.githubusercontent.com/destylol/catalyst/itachi/Donate-Please/Westbound.lua"
+    },
+    "12192552089": {
+        "Name": "Fruit Warriors",
+        "Url": "https://raw.githubusercontent.com/destylol/catalyst/itachi/Donate-Please/FruitWarriors.lua"
     }
 }
