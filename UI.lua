@@ -2,6 +2,10 @@ if game:GetService("CoreGui"):FindFirstChild("CatalystUI") then
     game:GetService("CoreGui"):FindFirstChild("CatalystUI"):Destroy()
 end
 
+if gethui and gethui():FindFirstChild("CatalystUI") then
+    gethui():FindFirstChild("CatalystUI"):Destroy()
+end
+
 local InputService = game:GetService('UserInputService');
 local TextService = game:GetService('TextService');
 local TweenService = game:GetService('TweenService');
