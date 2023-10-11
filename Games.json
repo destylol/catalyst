@@ -1,20 +1,4 @@
 {
-    "6284583030": {
-        "Name": "Pet Simulator X",
-        "Url": "https://raw.githubusercontent.com/destylol/catalyst/itachi/Donate-Please/PetSimX.lua"
-    },
-    "10321372166": {
-        "Name": "Pet Simulator X Hardcore",
-        "Url": "https://raw.githubusercontent.com/destylol/catalyst/itachi/Donate-Please/PetSimX.lua"
-    },
-    "7722306047": {
-        "Name": "Pet Simulator X Trading Plaza",
-        "Url": "https://raw.githubusercontent.com/destylol/catalyst/itachi/Donate-Please/PetSimX.lua"
-    },
-    "12610002282": {
-        "Name": "Pet Simulator X Pro Trading Plaza",
-        "Url": "https://raw.githubusercontent.com/destylol/catalyst/itachi/Donate-Please/PetSimX.lua"
-    },
     "9049840490": {
         "Name": "Sonic Speed Simulator",
         "Url": "https://scripts.luawl.com/hosted/4026/19941/SonicSpeedSimulator.lua"
@@ -30,5 +14,17 @@
      "3527629287": {
         "Name": "Big Paintball",
         "Url": "https://raw.githubusercontent.com/destylol/catalyst/itachi/Donate-Please/BigPaintball.lua"
+    },
+    "6918802270": {
+        "Name": "Haze Piece",
+        "Url": "https://raw.githubusercontent.com/destylol/catalyst/itachi/Donate-Please/HazePiece.lua"
+    },
+    "13772394625": {
+        "Name": "Blade Ball",
+        "Url": "https://raw.githubusercontent.com/destylol/catalyst/itachi/Donate-Please/BladeBall.lua"
+    },
+    "13864661000": {
+        "Name": "Break In 2",
+        "Url": "https://raw.githubusercontent.com/destylol/catalyst/itachi/Donate-Please/BreakIn2.lua"
     }
 }
